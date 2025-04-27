@@ -1,4 +1,4 @@
-# Overview
+# Salon Product Menu
 
 Java console application where the user gets to manage a collection of different salon-related products (shampoo, disenfectants, brushes, etc.) through a text-based menu.
 
