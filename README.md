@@ -22,7 +22,7 @@ Product is the base class, which:
 - HairstylingProduct
 - OtherUtensil
 
-are the subclasses
+are the subclasses.
 
 ---
 
